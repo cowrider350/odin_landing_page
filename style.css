@@ -234,4 +234,5 @@ li {
 }
 li:hover {
     background-color: #6b9b1e;
+    text-decoration: underline;
 }
